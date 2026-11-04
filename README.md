@@ -1,4 +1,3 @@
-```markdown
 # Práctica 5: Colaboración en GitHub y Resolución de Conflictos Remotos
 
 **Hugo Martín Toledano - 2º DAW**
@@ -56,4 +55,3 @@ El archivo final aparece correctamente en GitHub con Ana, Carlos y Hugo.
 Git bloqueó la subida porque en GitHub había un cambio nuevo que yo todavía no tenía en mi ordenador.
 
 Con `git pull --rebase` pude traer primero ese cambio y después añadir el mío encima. Así el historial queda más ordenado y no se crea otro commit solo para juntar los cambios.
-```
